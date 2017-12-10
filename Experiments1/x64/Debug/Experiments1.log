@@ -1,2 +1,30 @@
 ﻿  Experiments1.cpp
-d:\projects\datastructure\experiments\experiments1\experiments1.cpp(446): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(93): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(100): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(107): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(114): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(122): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(129): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(129): error C2228: “.listsize”的左边必须有类/结构/联合
+  d:\projects\datastructure\experiments\experiments1\experiments1.cpp(129): note: 类型是“unknown-type”
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(137): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(144): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(144): error C2228: “.listsize”的左边必须有类/结构/联合
+  d:\projects\datastructure\experiments\experiments1\experiments1.cpp(144): note: 类型是“unknown-type”
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(151): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(158): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(158): error C2228: “.listsize”的左边必须有类/结构/联合
+  d:\projects\datastructure\experiments\experiments1\experiments1.cpp(158): note: 类型是“unknown-type”
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(166): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(174): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(174): error C2228: “.listsize”的左边必须有类/结构/联合
+  d:\projects\datastructure\experiments\experiments1\experiments1.cpp(174): note: 类型是“unknown-type”
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(182): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(194): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(201): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(201): error C2228: “.listsize”的左边必须有类/结构/联合
+  d:\projects\datastructure\experiments\experiments1\experiments1.cpp(201): note: 类型是“unknown-type”
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(209): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(217): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(223): error C2065: “L”: 未声明的标识符
+d:\projects\datastructure\experiments\experiments1\experiments1.cpp(230): error C2065: “L”: 未声明的标识符
