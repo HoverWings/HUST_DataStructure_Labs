@@ -1,6 +1,0 @@
-﻿  Experiments2.cpp
-d:\projects\datastructure\experiments\experiments2\experiments2.cpp(860): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
-d:\projects\datastructure\experiments\experiments2\experiments2.cpp(1011): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
-d:\projects\datastructure\experiments\experiments2\experiments2.cpp(1034): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
-d:\projects\datastructure\experiments\experiments2\experiments2.cpp(768): warning C4715: “isInitedButEmpty”: 不是所有的控件路径都返回值
-  Experiments2.vcxproj -> D:\Projects\DataStructure\Experiments\x64\Debug\Experiments2.exe
